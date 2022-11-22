@@ -28,4 +28,8 @@ line1 = 'Bing tiddle'
 line2 = 'tiddle bang.'
 cat_twice(line1, line2)
 
-print(cat)
+# print(cat)
+
+print_twice('spam')
+print_twice(1337)
+print_twice(math.pi)
